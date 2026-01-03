@@ -106,8 +106,8 @@ pip install opencv-python
 
 # Nota
 
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
+Este proyecto se distribuye bajo la Licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente, siempre que se mantenga la atribución correspondiente. Consulta el archivo LICENSE para obtener más detalles.
 
 Si deseas contribuir a este proyecto, puedes enviar solicitudes de extracción (pull requests) con mejoras o características adicionales y si tienes alguna pregunta o problema, puedes contactarme a través de mi perfil de GitHub MrMike92.
 
-2024 | MrMike92 🐢
+2026 | MrMike92 🐢
