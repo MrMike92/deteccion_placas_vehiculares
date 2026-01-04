@@ -105,8 +105,15 @@ pip install opencv-python
 <br> 2. Ejecutar el archivo ***detector.py*** que se encuentra en la carpeta **procesar_videos**.
 
 # Nota
+No se subieron los resultados de los videos con duración de 10 minutos y 1 hora debido a que son pesados. Pero los videos utilizados fueron los siguentes:
+> **Duración de 24:43 -** https://www.youtube.com/watch?v=G2v2-H7r6vg
+> <br>**Duración de 21:07 -** https://www.youtube.com/watch?v=-UQbT7ncCbs
+> <br>**Duración de 3:36:02 -** https://www.youtube.com/watch?v=MTFvfxI3Drk
 
-Este proyecto se distribuye bajo la Licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente, siempre que se mantenga la atribución correspondiente. Consulta el archivo LICENSE para obtener más detalles.
+> [!IMPORTANT]
+> Los videos se recortaron para obtener fragmentos de 10 minutos y para 1 hora, se juntaron los videos de duración corta y el largo se obtuvieron 3 fragmentos de 1 hora.
+
+Este proyecto se distribuye bajo la Licencia MIT; puedes usarlo, modificarlo y compartirlo libremente, siempre que se mantenga la atribución correspondiente. Consulta el archivo LICENSE para obtener más detalles.
 
 Si deseas contribuir a este proyecto, puedes enviar solicitudes de extracción (pull requests) con mejoras o características adicionales y si tienes alguna pregunta o problema, puedes contactarme a través de mi perfil de GitHub MrMike92.
 
