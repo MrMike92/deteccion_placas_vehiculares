@@ -12,6 +12,7 @@ Un detector de placas vehiculares la cual usa paralelismo para la reducción de 
 * [Funcionamiento](#Funcionamiento)
     * [Procesamiento de imágenes](#Procesamiento-de-imágenes)
     * [Procesamiento de vídeo](#Procesamiento-de-vídeo)
+* [Arquitectura del sistema](#Arquitectura-del-sistema)
 * [Nota](#Nota)
 
 # Instrucciones de uso
@@ -31,6 +32,12 @@ pip install pytesseract
 pip install supervision
 pip install ultralytics
 pip install opencv-python
+```
+
+O tambien usar:
+```python
+# Copiar y pegar lo siguente en el CMD de Windows.
+pip install -r requirements.txt
 ```
 
 # Herramientas utilizadas
@@ -103,6 +110,10 @@ pip install opencv-python
 > Asegurese que se hayan descargado correctamente y que esten en la misma carpeta los videos que el archivo ***detector.py***.
 
 <br> 2. Ejecutar el archivo ***detector.py*** que se encuentra en la carpeta **procesar_videos**.
+
+# Arquitectura del sistema
+<image src="diagrama_red_img.svg" alt="Diagrama de red del procesamiento de las imagenes." width="30%" height="30%" />
+<image src="diagrama_red_video.svg" alt="Diagrama de red del procesamiento de los videos." width="50%" height="50%" />
 
 # Nota
 No se subieron los resultados de los videos con duración de 10 minutos y 1 hora debido a que son pesados. Pero los videos utilizados fueron los siguentes:
